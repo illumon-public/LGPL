@@ -1,0 +1,2 @@
+# LGPL
+Sharing Derivative code.
